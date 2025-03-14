@@ -1,4 +1,6 @@
-// finds the minimum number from a total of numbers
+// Algorithm 1: Find minimum
+// Requires: Array of integers
+// Returns: Smallest number in the array
 
 #include <stdio.h>
 #include <stdlib.h>
